@@ -3,10 +3,11 @@
 ### I've created my GitHub to showcase some cool projects I've worked on, both in and out of school. ###
 
 A few of my interests are
-1. Firmware & Embedded Systems
-2. Physics, Astronomy, & Math
-3. Renewable Energy & Sustainability
+1. FPGAs and Hardware  
+2. Firmware & Embedded Systems
+3. Physics, Astronomy, & Math
 4. AI/ML Development & Applications
+5. Renewable Energy & Sustainability
 
 ---
 
