@@ -11,7 +11,7 @@ A few of my interests are
 
 ---
 <p align="center">
-  (https://www.linkedin.com/in/sreksubrahamanian/)
+  https://www.linkedin.com/in/sreksubrahamanian/
 </p>
 
 <p align="center">
