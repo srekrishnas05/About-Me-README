@@ -10,8 +10,9 @@ A few of my interests are
 5. Renewable Energy & Sustainability
 
 ---
-
-[Linkedin:](https://www.linkedin.com/in/srekrishnasubrahamanian/)
+<p align="center">
+  (https://www.linkedin.com/in/sreksubrahamanian/)
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f" width="300" height="300" /><br>
