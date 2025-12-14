@@ -11,20 +11,20 @@ A few of my interests are
 
 ---
 
-[Here is my linkedin!](https://www.linkedin.com/in/srekrishnasubrahamanian/)
+[Linkedin:](https://www.linkedin.com/in/srekrishnasubrahamanian/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/989dac2b-5b20-4d05-92c8-c4d221b78c2f" width="300" height="300" /><br>
-  <em>Here is a picture of me with my favorite animal!</em>
+  <em>Me!</em>
 </p>
 
 <p align="center">
   <img src="https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg" width="300" height="300" /><br>
-  <em>Here is a picture of my university!</em>
+  <em>Place of learning 🏫🧠💡📚📖✏️🎓🍎</em>
 </p>
 
 ---
-Here's a little snippet you can run through your terminal!
+Cool snippet to run in your terminal:
 
 ```
 #include <iostream>
