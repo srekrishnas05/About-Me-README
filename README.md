@@ -20,8 +20,8 @@ A few of my interests are
 </p>
 
 <p align="center">
-  ![unnamed (6)](https://github.com/user-attachments/assets/4cae76ee-d8e2-47b3-bfda-9ee7bd2f1ad5)
-  <em>Me in a 747-400 cockpit 😏</em>
+  <img width="567" height="1088" alt="image" src="https://github.com/user-attachments/assets/d7ddbe5d-b4f3-44f8-9867-7c179de1450c" />
+  <em>Me in a 747-400 cockpit</em>
 </p>
 
 ---
