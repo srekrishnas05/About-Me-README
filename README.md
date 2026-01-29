@@ -20,8 +20,8 @@ A few of my interests are
 </p>
 
 <p align="center">
-  <img src="https://tour.stevens.edu/maps/UMAP_2017082365446_MINI.jpg" width="300" height="300" /><br>
-  <em>Place of learning 🏫🧠💡📚📖✏️🎓🍎</em>
+  ![unnamed (6)](https://github.com/user-attachments/assets/4cae76ee-d8e2-47b3-bfda-9ee7bd2f1ad5)
+  <em>Me in a 747-400 cockpit 😏</em>
 </p>
 
 ---
