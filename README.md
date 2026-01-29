@@ -19,10 +19,16 @@ A few of my interests are
   <em>Me!</em>
 </p>
 
-<p align="center">
-  <img width="567" height="1088" alt="image" src="https://github.com/user-attachments/assets/d7ddbe5d-b4f3-44f8-9867-7c179de1450c" />
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/d7ddbe5d-b4f3-44f8-9867-7c179de1450c"
+    alt="Me in a 747-400 cockpit"
+    width="400"
+  />
+  <br/>
   <em>Me in a 747-400 cockpit</em>
-</p>
+</div>
+
 
 ---
 Cool snippet to run in your terminal:
